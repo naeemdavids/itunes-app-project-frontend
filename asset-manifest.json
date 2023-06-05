@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/itunes-app-project-frontend/static/css/main.edb4a2e8.css",
+    "main.js": "/itunes-app-project-frontend/static/js/main.d2252e59.js",
+    "static/media/5710282.jpg": "/itunes-app-project-frontend/static/media/5710282.8d614578887fde4d9afe.jpg",
+    "index.html": "/itunes-app-project-frontend/index.html",
+    "main.edb4a2e8.css.map": "/itunes-app-project-frontend/static/css/main.edb4a2e8.css.map",
+    "main.d2252e59.js.map": "/itunes-app-project-frontend/static/js/main.d2252e59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb4a2e8.css",
+    "static/js/main.d2252e59.js"
+  ]
+}
